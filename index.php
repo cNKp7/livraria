@@ -19,7 +19,7 @@ and open the template in the editor.
      <!-- Bootstrap CSS -->
      <link rel="stylesheet" href="css/bootstrap.css">
      <link rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.css">  
-     <link rel="stylesheet" href="css/dashboard.css">
+     <link rel="stylesheet" href="css/principal.css">
       
    
    
